@@ -4,33 +4,40 @@ Uma aplicação desenvolvida em **Next.js** que utiliza a **Superhero API** para
 
 ## 🚀 Como executar  
 
-1. **Clone o repositório e acesse a pasta do projeto**
+### 1. Clone o repositório e acesse a pasta do projeto
 
-2. **Instale as dependências**
+2. Instale as dependências
+   
    ```bash
    npm install
    ```
 
-3. **Configure o Access Token**
+### 3. Configure o Access Token
 
 -Obtenha um Access Token no site da Superhero API.
 
 -Substitua o token diretamente no código conforme instruído.
 
-4. **Inicie o servidor:**
+### 4. Inicie o servidor:
    ```bash
      npm run dev
    ```
 
-5. **Acesse o aplicativo no navegador:**
+### 5. ##Acesse o aplicativo no navegador:
    ```bash
      http://localhost:3000
    ```
 
-**🛠 Tecnologias utilizadas:**
+### 🛠 Tecnologias utilizadas:
 
 -Next.js
 
 -Superhero API   
+
+#### Integrantes do grupo:
+-João Trevisol 10277893
+
+-Matheus Fernandes 10435788
+
 
    
