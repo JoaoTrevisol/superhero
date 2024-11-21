@@ -1,4 +1,4 @@
-# App de Super-Heróis  
+# SuperHero
 
 Uma aplicação desenvolvida em **Next.js** que utiliza a **Superhero API** para exibir informações detalhadas sobre super-heróis.  
 
