@@ -14,7 +14,8 @@ Uma aplicação desenvolvida em **Next.js** que utiliza a **Superhero API** para
 
 ### 3. Configure o Access Token
 
--Obtenha um Access Token no site da Superhero API.
+-Obtenha um Access Token no site da [SuperHero API](https://superheroapi.com)
+
 
 -Substitua o token diretamente no código conforme instruído.
 
